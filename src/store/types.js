@@ -1,0 +1,6 @@
+export const LOAD_PARTNERS = 'LOAD_PARTNERS'
+export const LOAD_PARTNER = 'LOAD_PARTNER'
+export const AUTH_EMAIL = 'AUTH_EMAIL'
+export const AUTH_PIN = 'AUTH_PIN'
+export const AUTH_STATUS = 'AUTH_STATUS'
+export const AUTH_LOGIN = 'AUTH_LOGIN'
